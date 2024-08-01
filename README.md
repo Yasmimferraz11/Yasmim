@@ -1,6 +1,9 @@
 #SEJA BEM VINDO AO MEU PERFIL
+
 meu nome é yasmim ferraz
+
 Estou me desenvolvendo na linguagem JavaScript
+
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 estou estudando a alura
